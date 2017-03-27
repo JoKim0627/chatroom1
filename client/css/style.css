@@ -1,7 +1,6 @@
 nav ul li {
   font-family: Helvetica;
   display: inline-block; }
-
 nav div img {
   width: 100%; }
 
@@ -14,5 +13,10 @@ a, .link {
   text-decoration: none;
   font-weight: 600; }
 
+li {
+  color: hotpink; }
+
 .link {
   color: #4effb1; }
+
+/*# sourceMappingURL=style.css.map */
